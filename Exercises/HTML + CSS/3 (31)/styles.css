@@ -3,13 +3,15 @@
     atrybuty do wykorzystania:
         font-family: "Arial Narrow";
 */
-
-
+p,i
+    font-family: "Arial Narrow"
 /*
     Dla nagłówka h1 o id header ustaw kolor czcionki na czerwony
     atrybuty do wykorzystania:
         color: red;
 */
+h1 id="header"
+    color: red;
 
 
 /*
@@ -26,7 +28,9 @@
     atrybuty do wykorzystania:
         color: white;
 */
+div class="container"
 
+    color: white;
 
 /*
     Dla paragrafu (p) który jest dzieckiem elemetu blokowego o klasie container ustaw wielkość czcionki
